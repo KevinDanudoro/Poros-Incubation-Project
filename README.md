@@ -38,19 +38,19 @@ Pada *incubation challenge* kali ini, **setiap kelompok** akan diminta membuat s
 
 ## :triangular_flag_on_post: Team
 **Kelompok 1:**
-    1. Seto Aji Pamungkas (BE)
-    2. Arvan Yudhistira Ardhana (BE)
-    3. Sabrina Ella Zafira (FE)
+1. Seto Aji Pamungkas (BE)
+2. Arvan Yudhistira Ardhana (BE)
+3. Sabrina Ella Zafira (FE)
  
 **Kelompok 2:**
-    1. Irfan Hanif Habibi (BE)
-    2. Ndaniel Mahulae (BE)
-    3. Hilmisyah Nabil (FE)
+1. Irfan Hanif Habibi (BE)
+2. Ndaniel Mahulae (BE)
+3. Hilmisyah Nabil (FE)
    
 **Kelompok 3:**
-    1. Afwan Mulia Pratama (BE)
-    2. M. Zakki Islami (BE)
-    3. Radyza Glagah Sudharma (FE)
+1. Afwan Mulia Pratama (BE)
+2. M. Zakki Islami (BE)
+3. Radyza Glagah Sudharma (FE)
 
 ## :hourglass_flowing_sand: Deadline
 
