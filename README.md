@@ -32,7 +32,7 @@ Pada *incubation challenge* kali ini, **setiap kelompok** akan diminta membuat s
 
 ### B. Back-End
 1. Bagian Back-End **diwajibkan** menggunakan Node.js
-2. Bagian Back-End **diwajibkan** menggunakan Database
+2. Bagian Back-End **diwajibkan** menggunakan Database Relasional berbasis SQL
 3. Web Service **diwajibkan** untuk deploy ke dalam Docker. Pastikan Dockerfile bisa dijalankan di komputer penilai dan service berjalan
 
 >Ada penilaian tambahan apabila dibuat multi-container dengan docker compose, di mana setiap service (contoh, service sendiri dan database) di deploy di containernya sendiri
