@@ -1,4 +1,4 @@
-﻿# :art: POROS 2023: Front-End Incubation Challenge 
+﻿# :art: POROS 2023: Incubation Challenge 
 
 **Front-End Incubation Challenge** merupakan tugas akhir yang diberikan kepada peserta inkubasi calon anggota baru divisi Front-End dan Back-End, Departemen Research and Development, POROS 2023. Pada *inkubation challange* kali ini calon anggota diminta untuk menyelesaikan salah satu tantangan/challenge yang sudah disediakan di bawah. 
 
