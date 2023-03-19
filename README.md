@@ -2,7 +2,6 @@
 
 **Front-End Incubation Challenge** merupakan tugas akhir yang diberikan kepada peserta inkubasi calon anggota baru divisi Front-End dan Back-End, Departemen Research and Development, POROS 2023. Pada *inkubation challange* kali ini calon anggota diminta untuk menyelesaikan salah satu tantangan/challenge yang sudah disediakan di bawah. 
 
-
 ## :surfer: Challenge 
 
 Pada *incubation challenge* kali ini, **setiap kelompok** akan diminta membuat suatu web service **(Back-End)** dan tampilan aplikasi web **(Front-End)** yang saling terhubung. Bagian Front-End akan meng-consume API yang disediakan oleh Back-End untuk menyelesaikan studi kasus tertentu. Berikut merupakan studi kasus yang harus diselesaikan:
@@ -36,6 +35,22 @@ Pada *incubation challenge* kali ini, **setiap kelompok** akan diminta membuat s
 3. Web Service **diwajibkan** untuk deploy ke dalam Docker. Pastikan Dockerfile bisa dijalankan di komputer penilai dan service berjalan
 
 >Ada penilaian tambahan apabila dibuat multi-container dengan docker compose, di mana setiap service (contoh, service sendiri dan database) di deploy di containernya sendiri
+
+## :triangular_flag_on_post: Team
+**Kelompok 1:**
+    1. Seto Aji Pamungkas (BE)
+    2. Arvan Yudhistira Ardhana (BE)
+    3. Sabrina Ella Zafira (FE)
+ 
+**Kelompok 2:**
+    1. Irfan Hanif Habibi (BE)
+    2. Ndaniel Mahulae (BE)
+    3. Hilmisyah Nabil (FE)
+   
+**Kelompok 3:**
+    1. Afwan Mulia Pratama (BE)
+    2. M. Zakki Islami (BE)
+    3. Radyza Glagah Sudharma (FE)
 
 ## :hourglass_flowing_sand: Deadline
 
