@@ -48,7 +48,7 @@ Bagi kelompok yang sudah menyelesaikan tantangan di atas maka dipersilahkan untu
 **Form hanya perlu diisi 1 kali / diwakili oleh 1 anggota**
 
 ## :video_camera: Presentation
-Presentasi projek akhir akan dilaksanakan pada **26 Februari 2023** dengan detail lainnya (urutan presentasi, dll) yang akan diumumkan di kemudian hari.
+Presentasi projek akhir akan dilaksanakan pada **26 Maret 2023** dengan detail lainnya (urutan presentasi, dll) yang akan diumumkan di kemudian hari.
 
 ## :raised_hand: Questions
 
