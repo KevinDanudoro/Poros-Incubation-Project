@@ -52,7 +52,7 @@ Presentasi projek akhir akan dilaksanakan pada **26 Februari 2023** dengan detai
 
 ## :raised_hand: Questions
 
-Jika terdapat hal yang ingin ditanyakan terkait *Free-Pass Challenge* POROS 2023, silahkan hubungi salah satu dari *Contact Person* berikut :
+Jika terdapat hal yang ingin ditanyakan terkait *Incubation Challenge* POROS 2023, silahkan hubungi salah satu dari *Contact Person* berikut :
 
 |No.|divisi|Nama|Contact|
 |--|--|--|--|
